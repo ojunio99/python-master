@@ -1188,11 +1188,8 @@ Where to discover learning resources or new Python libraries.
 * [Python Test](https://podcast.pythontest.com/)
 * [The Real Python Podcast](https://realpython.com/podcasts/rpp/)
 
-# Contributing
-
-Your contributions are always welcome! Please take a look at the [contribution guidelines](https://github.com/vinta/awesome-python/blob/master/CONTRIBUTING.md) first.
 
 - - -
 
-If you have any question about this opinionated list, do not hesitate to contact me [@VintaChen](https://twitter.com/VintaChen) on Twitter or open an issue on GitHub.
+If you have any question about this opinionated list, do not hesitate to contact me [@ojunio99](https://twitter.com/ojunio99) on Twitter or open an issue on GitHub.
 
